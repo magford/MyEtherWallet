@@ -40,7 +40,7 @@
   "constructor": "Constructor",
   "contractName": "Contract Name",
   "subdomains": "Name your wallet",
-  "buySubDomains": "Assign a name or phrase to your Ethereum address instantly",
+  "buySubDomains": "Give your Ethereum address a readable name",
   "signMessageDesc": "Include your nickname and where you use the nickname so someone else cannot use it. Include a specific reason for the message so it cannot be reused for a different purpose.",
   "verifiedMessage": "did sign the message",
   "walletNotFound": "Oops! Wallet not found! :(",
